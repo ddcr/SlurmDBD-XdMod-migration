@@ -1,0 +1,1173 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"cache_data	statement"
+			],
+			[
+				"pubmed",
+				"pubmed_article	statement"
+			],
+			[
+				"tree",
+				"y-terminate()	subprocess*"
+			],
+			[
+				"citat",
+				"citation_bibtex_map"
+			],
+			[
+				"bib",
+				"bibliography"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"Bib",
+				"BibTexWriter"
+			],
+			[
+				"cr",
+				"crossref"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"wri",
+				"writer"
+			],
+			[
+				"BibT",
+				"BibTexWriter"
+			],
+			[
+				"cus",
+				"customization"
+			],
+			[
+				"extr",
+				"extra_fields"
+			],
+			[
+				"ex",
+				"extra_fields"
+			],
+			[
+				"bibte",
+				"bibtexparser"
+			],
+			[
+				"Bi",
+				"BibTexParser"
+			],
+			[
+				"p",
+				"println"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"fi",
+				"figure"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/ddcr/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/parse_chat_file.py",
+			"settings":
+			{
+				"buffer_size": 2772,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 250.0,
+		"last_filter": "sublime",
+		"selected_items":
+		[
+			[
+				"sublime",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"subl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"anaconda",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"an",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"io",
+				"iOpener: Find File"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"hea",
+				"FileHeader: Add Header"
+			],
+			[
+				"iop",
+				"iOpener: Find File"
+			],
+			[
+				"auto",
+				"AutoDocstring: Current"
+			],
+			[
+				"python",
+				"Fold Python : show documentation"
+			],
+			[
+				"snippet utf",
+				"Snippet: autofield"
+			],
+			[
+				"snippet: env",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"ana",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"snippet: beg",
+				"Snippet: \\begin{}…\\end{}"
+			],
+			[
+				"lintin",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"set syntax: magi",
+				"Set Syntax: MagicPython"
+			],
+			[
+				"set syntax: pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"set syntax: p",
+				"Set Syntax: Python"
+			],
+			[
+				"heade",
+				"FileHeader: Add Header"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"lin",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Lin",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"Fortr",
+				"Set Syntax: Fortran (Fixed Form)"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: List Packages"
+			],
+			[
+				"fortr",
+				"Set Syntax: Fortran (Fixed Form)"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"contro",
+				"Package Control: Install Package"
+			],
+			[
+				"quic",
+				"git: quick commit"
+			],
+			[
+				"Git",
+				"git: commit"
+			],
+			[
+				"cite",
+				"Citer: Show All"
+			],
+			[
+				"bookmark",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"snippet:fi",
+				"Snippet: figure"
+			],
+			[
+				"book",
+				"SublimeBookmarks: Remove A Bookmark"
+			],
+			[
+				"sni",
+				"Snippet: Python generate_prime_numbers pattern"
+			],
+			[
+				"Snippet: tree",
+				"Snippet: Try/Except/Else"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"snipp",
+				"Snippet: decimalfield"
+			],
+			[
+				"bib",
+				"Set Syntax: BibTeX"
+			],
+			[
+				"anaco",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimel",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"Paca",
+				"Package Control: Install Package"
+			],
+			[
+				"gitgutter",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"Package Control",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"bra",
+				"Preferences: BracketGuard Settings - Default"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"cit",
+				"Citer: Search"
+			],
+			[
+				"",
+				"Citer: Insert Title"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX Beamer"
+			],
+			[
+				"Snippet: ",
+				"Snippet: modeline"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contr",
+				"Package Control: Install Package"
+			],
+			[
+				"e",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"toggle",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"Package Control: spe",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 560.0
+	},
+	"console":
+	{
+		"height": 321.0,
+		"history":
+		[
+			"socket.socket(socket.AF_UNIX, socket.SOCK_STREAM).connect('/home/ddcr/.local/share/anaconda/run/SlurmDBD-XdMod/anaconda.sock')",
+			"socket.socket(socket.AF_UNIX, socket.SOCK_STREAM).connect(/home/ddcr/.local/share/anaconda/run/SlurmDBD-XdMod/anaconda.sock)",
+			"import socket;",
+			"import os; print(os.environ);",
+			"subprocess.check_call([interpreter, '-c', 'pass'])",
+			"interpreter = helpers.get_settings(view, 'python_interpreter')",
+			"from Anaconda.anaconda_lib import helpers; import subprocess",
+			"subprocess.check_call([interpreter, '-c', 'pass'])",
+			"interpreter = helpers.get_settings(view, 'python_interpreter')",
+			"from Anaconda.anaconda_lib import helpers; import subprocess",
+			"subprocess.check_call([interpreter, '-c', 'pass'])",
+			"print interpreter",
+			"interpreter = helpers.get_settings(view, 'python_interpreter')",
+			"from Anaconda.anaconda_lib import helpers; import subprocess",
+			"socket.socket(socket.AF_UNIX, socket.SOCK_STREAM).connect('/home/ddcr/.local/share/anaconda/run/SlurmDBD-XdMod/anaconda.sock')",
+			"socket.socket(socket.AF_UNIX, socket.SOCK_STREAM).connect(/home/ddcr/.local/share/anaconda/run/SlurmDBD-XdMod/anaconda.sock)",
+			"import socket",
+			"socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/ddcr/.local/share/anaconda/run/SlurmDBD-XdMod/anaconda.sock)",
+			"socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(\"/home/ddcr/.local/share/anaconda/run/SlurmDBD-XdMod/anaconda.sock\")",
+			"import socket",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/ddcr/.local/share/anaconda/run/SlurmDBD-XdMod/anaconda.sock)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src"
+	],
+	"file_history":
+	[
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/SlurmDBD-XdMod.sublime-project",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/parse_chat_file.py",
+		"/home/ddcr/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/ddcr/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/SlurmDBD-XdMod.sublime-project",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/Anaconda.sublime-settings",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/parse_slurmdbd.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/xdmod-5.6.0/bin/xdmod-ingestor",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurmctld.v2.0.5.h",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/as_mysql_job_start.v15.c",
+		"/home/ddcr/Videos/player1.js",
+		"/home/ddcr/Videos/SC5107_HSLK.xml",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/as_mysql_job.v15.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/as_mysql_job_complete.v15.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/accounting_storage_mysql.v2.0.5.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/jobacct_storage_p_job_complete.v2.0.5.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/jobacct_storage_p_job_start.v2.0.5.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/slurmctld/slurmctld.h",
+		"/home/ddcr/slurmctld.v2.0.5.h",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/plugins/accounting_storage/mysql/accounting_storage_mysql.c",
+		"/home/ddcr/jobacct_storage_p_job_complete.v2.0.5.c",
+		"/home/ddcr/jobacct_storage_p_job_start.v2.0.5.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/plugins/accounting_storage/mysql/mysql_jobacct_process.h",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/plugins/accounting_storage/mysql/jobacct_storage_p_job_complete.v15.c",
+		"/home/ddcr/jobacc_storage_p_job_start.v15.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/plugins/accounting_storage/mysql/accounting_storage_mysql.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/common/slurmdbd_defs.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/plugins/accounting_storage/mysql/as_mysql_job.c",
+		"/home/ddcr/Python-Tasks-Queues/BISPECTRUM_addon_stuff/PAIR_SNAP/compute_sna_atom.cpp",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/print_fields.v2.0.5-1.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/print_fields.v15-08-7-1.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/database/mysql_common.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/plugins/accounting_storage/mysql/as_mysql_jobacct_process.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/xdmod-5.6.0/db/schema/create_ddcr.sh",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/mysql_jobacct_process.v15.08.c",
+		"/home/ddcr/untitled.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/mysql_jobacct_process.v2.0.5.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/common/slurm_accounting_storage.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/sacct/options.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/xdmod-5.6.0/bin/xdmod-shredder",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/plugins/accounting_storage/mysql/mysql_jobacct_process.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/sacct/options.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/sacct/sacct.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/sacct/sacct.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/xdmod-5.6.0/bin/xdmod-slurm-helper",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/print_jobid_slurm.2.0.5.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/tmp.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/print_jobid.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/print_jobid_2.0.5.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/print_reqmem.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/xdmod-5.6.0/bin/xdmod-s",
+		"/data/PDF_new/Done/get_bibtex.py",
+		"/data/PDF_new/Done/my_cache.py",
+		"/home/ddcr/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/data/PDF_new/Done/indra/indra/literature/elsevier_client.py",
+		"/data/PDF_new/Done/python-scopus/pyscopus/pyscopus.py",
+		"/home/ddcr/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/ddcr/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/ddcr/Videos/ola.txt",
+		"/home/ddcr/Videos/184049-c-short-and-sweet-part-1.html",
+		"/home/ddcr/Videos/C++_videos_links.txt",
+		"/data/Documents/Artigos/tese.overleaf/main.tex",
+		"/data/Documents/Artigos/tese.overleaf/burocracia/letrinfo.tex",
+		"/data/Documents/Artigos/tese.overleaf/burocracia/carta_tese.tex",
+		"/data/Documents/Artigos/tese.overleaf/carta_tese.tex",
+		"/home/ddcr/LCC-CENAPAD/Cluster BULL-UFMG/fis763_users.rst",
+		"/home/ddcr/LCC-CENAPAD/Cluster BULL-UFMG/fis758_users.rst",
+		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono.tex",
+		"/data/Documents/Artigos/tese.overleaf/capitulo_nak.tex",
+		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono.bib",
+		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono_bibolamazi.bib",
+		"/home/ddcr/Downloads/PDF_new/MachineLearning_and_QuantumMechanics/rename.sh",
+		"/home/ddcr/Downloads/PDF_new/PhysRev_pdfs/rename.sh",
+		"/home/ddcr/Downloads/PDF_new/rename_pdf.py",
+		"/home/ddcr/Downloads/PDF_new/rename.sh",
+		"/home/ddcr/Downloads/PDF_new/OLA",
+		"/home/ddcr/Downloads/PDF_new/pdfMetadata/dados.txt",
+		"/home/ddcr/Downloads/PDF_new/pdfMetadata/dados.csv",
+		"/data/Documents/Artigos/tese.overleaf/teoria.tex",
+		"/data/Documents/Artigos/tese.overleaf/teoria_bibolamazi.bib",
+		"/data/Documents/Artigos/tese.overleaf/carbono.tex",
+		"/data/Documents/Artigos/tese.overleaf/intro.tex",
+		"/data/Documents/Artigos/tese.overleaf/tese-defs.sty",
+		"/data/Documents/Artigos/tese.overleaf/teoria_figs/fitness.py",
+		"/data/anaconda-recipes/monty/meta.yaml",
+		"/data/CODE_REVIEW/ga3.tidy.f",
+		"/home/ddcr/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/data/CODE_REVIEW/farray.py",
+		"/data/Documents/Artigos/tese.overleaf/teoria_figs/CODE_REVIEW/ga3.tidy.f",
+		"/data/Documents/Artigos/tese.overleaf/teoria_figs/CODE_REVIEW/TIDY/ga3.tidy.f",
+		"/data/Documents/Artigos/tese.overleaf/teoria_figs/CODE_REVIEW/TIDY/ga3.f",
+		"/data/Documents/Artigos/tese.overleaf/teoria_figs/CODE_REVIEW/ga2.f",
+		"/data/Documents/Artigos/tese.overleaf/teoria_figs/CODE_REVIEW/MACO-Birmingham-GA/ATUAL/ga3.f",
+		"/data/Documents/Artigos/tese.overleaf/teoria_figs/ga3.f",
+		"/data/Documents/Artigos/tese.overleaf/teoria_figs/MACO-Birmingham-GA/pred.atual.f",
+		"/data/Documents/Artigos/tese.overleaf/teoria_figs/teste_sort.py",
+		"/data/Documents/Artigos/tese.overleaf/teste_sort.py",
+		"/data/Documents/Artigos/tese.overleaf/teste.f",
+		"/home/ddcr/.config/sublime-text-3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/data/Documents/Artigos/tese.overleaf/conclusao.tex",
+		"/data/Documents/Artigos/tese.overleaf/capitulo_drug_release.tex",
+		"/data/Documents/Artigos/tese.overleaf/anexo3.tex",
+		"/data/Documents/Artigos/tese.overleaf/anexo1.tex",
+		"/home/ddcr/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+		"/data/Documents/Artigos/tese.overleaf/snippet.py",
+		"/data/Documents/Artigos/tese.overleaf/capitulo_nak_bibolamazi.bib",
+		"/data/Documents/Artigos/tese.overleaf/capitulo_nak.bib",
+		"/data/Documents/Artigos/tese.overleaf/library.bib",
+		"/data/Documents/Artigos/tese.overleaf/anexo2.tex",
+		"/home/ddcr/.config/sublime-text-3/Packages/LaTeXTools/viewers/command_viewer.py",
+		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono_figs/infravermelho_b3lyp/stacked_spectra.py",
+		"/home/ddcr/.config/sublime-text-3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono_figs/infravermelho_b3lyp/extras/teste.py",
+		"/data/Documents/Artigos/tese.overleaf/README",
+		"/home/ddcr/.config/sublime-text-3/Packages/LaTeXTools/jumpToPDF.py",
+		"/data/ARTUR/TRABALHO_FILOSOFIA/Dualismo_Platonico.txt",
+		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono_figs/energies_comparison.py",
+		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono_figs/energies_comparison.p",
+		"/home/ddcr/.config/sublime-text-3/Packages/LaTeXTools/viewPDF.py",
+		"/home/ddcr/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ddcr/.config/sublime-text-3/Packages/LaTeXTools/Default (Linux).sublime-keymap",
+		"/data/Documents/Artigos/tese-pre-banca/carbono.tex",
+		"/data/Documents/Artigos/carbon_proj/markevery_demo.py",
+		"/data/Documents/Artigos/carbon_proj/DOS_RSDFT_COMPARE.py",
+		"/data/Documents/Artigos/tese.overleaf/conclusao_bibolamazi.bib",
+		"/data/Documents/Artigos/tese.overleaf/conclusao.bib",
+		"/data/Documents/Artigos/tese.overleaf/intro.bib",
+		"/data/Documents/Artigos/tese.overleaf/intro_bibolamazi.bib"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.tex",
+			"/data/Documents/Artigos/tese.overleaf"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"from",
+			"select_job_res_t",
+			"slurmdb_send_accounting_update",
+			"mysql_next_result",
+			"password",
+			"username",
+			"<db",
+			"/usr/share/xdmod/",
+			"\\bstep\\b",
+			"CPU_TRES_REC_COUNT",
+			"PRINT_START",
+			"PRINT_ACCOUNT",
+			"PRINT_PARTITION",
+			"cluster_name",
+			"job->cluster",
+			"job_cluster",
+			"PRINT_JOBIDRAW",
+			"PRINT_JOBID",
+			"\\bid\\b",
+			"JOB_REQ_ID",
+			"curr_id",
+			"start",
+			"id_job",
+			"_cluster_get_jobs",
+			"setup_job_cluster",
+			"_state_time_string",
+			"setup_job_cluster_cond_limits",
+			"setup_job_cluster_cond_limis",
+			"setup_job_job_cond",
+			"\\\",",
+			"\\\"t1.",
+			"\\\"t1.(\\w+)\\\"",
+			"setup_job_cond_limits",
+			"p_get_jobs_cond",
+			"cluster_list",
+			"setup_job_cond_limits",
+			"show_full",
+			"job_ended",
+			"REQ_SUSPENDED",
+			"REQ_NODE_INX",
+			"setup_job_cond_limits",
+			"extra",
+			"job_req_inx",
+			"mysql_jobacct_process_get_",
+			"PRINT_JOBID",
+			"in",
+			"_del_sql",
+			"buffer",
+			"thread",
+			"unicode_tex",
+			"bigfile",
+			"Despartamento",
+			"Departamento",
+			"except",
+			"ufmg",
+			"Saslow",
+			"/",
+			"fator",
+			"\\\\braket",
+			"a energia ciné",
+			"funçao de onda",
+			"eléc",
+			"eléctr",
+			"que são soluções",
+			"itemize",
+			"Lamarck",
+			"footnote",
+			"\\bGA\\b",
+			"\\bAG\\b",
+			"\\bGA\\b",
+			"\\\\begin{figure",
+			"seleção",
+			"\\\\begin{figure}",
+			"enr_bef",
+			"enr_min",
+			"comment",
+			"enr_min",
+			"nxt_clus",
+			"nxt_clus_aux",
+			"n_killnext",
+			"task1",
+			"n_kill2",
+			"n_aux_pred",
+			"enr_min",
+			"natoms",
+			"task1",
+			"enr_min",
+			"enr_1",
+			"1111",
+			"goto 1111",
+			"noff",
+			"energ_bet",
+			"enr_bef",
+			"sort_matr",
+			"energ_bet",
+			"enr_1",
+			"call predator",
+			"call gen",
+			"energ\\(",
+			"energ_bet",
+			"enr_1",
+			"task",
+			"enr_",
+			"PREDATOR",
+			"iclus",
+			"nbet_clust",
+			"Fluxograma que dEscreve",
+			"Fluxograma que dscreve",
+			"Fluxograma",
+			"Fluxograma que descreve",
+			"moléculas raramente",
+			"Caracterização dos clusters",
+			"\\\\cite",
+			"\\\\citeonline",
+			"\\(~\\\\cite",
+			"\\(~\\auto",
+			"(~\\auto",
+			"auto",
+			"subfigura",
+			"Silva",
+			"Parâmetros do",
+			"Parâmetros do poten",
+			"\\\\begin{figure}",
+			"author",
+			"autor",
+			"\\\\begin{figure}",
+			"\\begin\\{figure",
+			"forwa"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"brigh99",
+			"ddcr",
+			"< ./db",
+			"",
+			",",
+			"t1.",
+			"t1.(\\w+)",
+			"@",
+			"AG",
+			"\\boldsymbol",
+			"",
+			"Journal of Physics: Condensed Matter ",
+			"The Journal of Physical Chemistry A",
+			"Physical Review E: Statistical, Nonlinear, and Soft Matter Physics",
+			"Physical Review",
+			"Physical Review B",
+			"Journal of Chemical Physics",
+			"Physical Review A: Atomic, Molecular, and Optical Physics",
+			"Physical Review Letters",
+			"",
+			"Physical Review B",
+			"Journal of Computational Physics",
+			"Computer Physics Communications",
+			"Journal of Computational Physics",
+			"",
+			"{C}$",
+			"\\'{E}",
+			"\\'{u}",
+			"\\~{o}",
+			"\\'{o}",
+			"\\'{\\i}",
+			"\\`{a}",
+			"\\c{c}",
+			"\\~{a}",
+			"\\'{a}",
+			"\\'{e}",
+			"\\^{e}",
+			"\\^{a}",
+			"\\^{o}",
+			"abnitio_carbono_figs/infravermelho_b3lyp",
+			"\\^{o}",
+			"fenômeno",
+			"        images = [\n            \"C6.ga.bond.jpg\", \"C6.lda.bond.jpg\", \"C6.pbe.bond.jpg\", \"C6.b3lyp.bond.jpg\",\n            \"C7.ga.bond.jpg\", \"C7.lda.bond.jpg\", \"C7.pbe.bond.jpg\", \"C7.b3lyp.bond.jpg\",\n            \"C8.ga.bond.jpg\", \"C8.lda.bond.jpg\", \"C8.pbe.bond.jpg\", \"C8.b3lyp.bond.jpg\",\n            \"C9.ga.bond.jpg\", \"C9.lda.bond.jpg\", \"C9.pbe.bond.jpg\", \"C9.b3lyp.bond.jpg\"\n            ]\n",
+			"\n        ",
+			"\\^{o}",
+			"\\max",
+			"\\^{o}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/ddcr/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										263,
+										264
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								224,
+								8,
+								17,
+								16,
+								11,
+								16,
+								12,
+								139,
+								153,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"git_savvy.file_path": "/home/ddcr/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/parse_chat_file.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								4
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								224,
+								8,
+								26,
+								20,
+								2,
+								45,
+								11,
+								48,
+								232,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"git_savvy.file_path": "/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/parse_chat_file.py",
+							"syntax": "Packages/MagicPython/grammars/MagicPython.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 584.0
+	},
+	"pinned_build_system": "",
+	"project": "SlurmDBD-XdMod.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"abnitio_carbono.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

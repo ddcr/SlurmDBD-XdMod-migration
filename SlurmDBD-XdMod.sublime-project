@@ -1,0 +1,31 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"/home/ddcr/.conda/envs/slurmstats/bin/python2.7\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"python_paths":
+		[
+			"/home/ddcr/.conda/envs/slurmstats/bin"
+		],
+		"extra_paths":
+		[
+			"/usr/local/sublime_text_3",
+			"/.conda/envs/slurmstats/bin"
+		],
+		"python_interpreter": "/home/ddcr/.conda/envs/slurmstats/bin/python2.7"
+	}
+}
