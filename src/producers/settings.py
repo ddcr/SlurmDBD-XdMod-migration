@@ -2,14 +2,20 @@
 # @Author: ddcr
 # @Date:   2016-08-30 21:37:39
 # @Last Modified by:   ddcr
-# @Last Modified time: 2016-08-30 23:32:46
+# @Last Modified time: 2016-09-04 00:27:16
+import os
+from os.path import join, dirname
+from dotenv import load_dotenv
+
+dotenv_path = join(dirname(__file__), '..', '..', '.env')
+load_dotenv(dotenv_path)
 
 SLURMDBD = {
     'drivername': 'mysql',
-    'username': 'ddcr',
-    'password': 'brigh99',
-    'host': 'localhost',
-    'port': '3306',
-    'database': 'slurm_acct_db',
-    'query': {'unix_socket': '/var/lib/mysql/mysql.sock'}
+    'username': os.environ.get("USER_SLURM_BD"),
+    'password': os.environ.get("PASS_SLURM_BD"),
+    'host': os.environ.get("HOST"),
+    'port': os.environ.get("PORT"),
+    'database': os.environ.get("SLURM_DB"),
+    'query': {'unix_socket': os.environ.get("UNIX_SOCKET")}
 }

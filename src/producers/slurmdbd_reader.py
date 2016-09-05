@@ -2,7 +2,7 @@
 # @Author: ddcr
 # @Date:   2016-08-30 20:06:12
 # @Last Modified by:   ddcr
-# @Last Modified time: 2016-09-02 16:23:02
+# @Last Modified time: 2016-09-04 19:16:39
 import logging
 import sqlalchemy as sa
 from sqlalchemy.engine.url import URL
@@ -15,6 +15,8 @@ import settings
 import time
 import datetime
 
+__all__ = ["JobTable", "AssocTable", "UserTable",
+           "AcctTable", "ReadSlurmDBD"]
 
 logger = logging.getLogger('read_slurm_acct_db')
 
@@ -110,6 +112,13 @@ class JobTable(Base):
     def end_datetime(self, value):
         self.end = int(time.mktime(value.timetuple()))
 
+    def __repr__(self):
+        line = "<JobTable("
+        line += ', '.join(['{0} = {1}'.format(c.key, getattr(self, c.key)) for
+                           c in self.__mapper__.columns])
+        line += ")>"
+        return(line)
+
 
 class AssocTable(Base):
     __tablename__ = 'assoc_table'
@@ -188,8 +197,8 @@ class AcctTable(Base):
     description = Column(Text, nullable=False)
     organization = Column(Text, nullable=False)
     users = relationship("UserTable",
-                         primaryjoin="AcctTable.name==AssocTable.acct",
-                         secondaryjoin="AssocTable.user==UserTable.name",
+                         primaryjoin="AcctTable.name == AssocTable.acct",
+                         secondaryjoin="AssocTable.user == UserTable.name",
                          secondary=AssocTable.__table__,
                          backref='all_accts')
 
@@ -201,65 +210,18 @@ class AcctTable(Base):
     def creation_datetime(self, value):
         self.creation_time = time.mktime(value.timetuple())
 
+    def __repr__(self):
+        line = "<AcctTable("
+        line += ', '.join(['{0} = {1}'.format(c.key, getattr(self, c.key)) for
+                           c in self.__mapper__.columns])
+        line += ")>"
+        return(line)
+
 
 class ReadSlurmDBD(object):
     pass
     # def __init__(self):
 
 
-def test1():
-    """Using a Hybrid
-    """
-    for obj in SlurmDBSession.query(UserTable):
-        print obj.creation_time, obj.creation_datetime
-        obj.creation_datetime = datetime.datetime.now()
-        print obj.creation_time, obj.creation_datetime, int(obj.creation_time)
-        print('='*70)
-
-
-def test2():
-    """Runtime information about
-    sqlalchemy ORM objects
-    """
-    from sqlalchemy import inspect
-
-    insp = inspect(AcctTable)
-    print list(insp.columns)
-    print insp.all_orm_descriptors.keys()
-    print [c_attr.key for c_attr in insp.mapper.column_attrs]
-
-
-def test3():
-    """Print mysql expressions
-    """
-    from sqlalchemy.dialects import mysql
-
-    q = SlurmDBSession.query(AcctTable).order_by(AcctTable.creation_time)
-    print str(q.statement.compile(dialect=mysql.dialect()))
-
-
-def test4():
-    """Test relationship in AcctTable. We list all users of given account/group
-    """
-    for row in SlurmDBSession.query(AcctTable).\
-            filter(sa.and_(AcctTable.deleted == 0,
-                           AcctTable.organization == 'qui')):
-        account_users = row.users
-        print row.creation_datetime, row.name, [c.name for c in account_users]
-
-    for row in SlurmDBSession.query(UserTable).\
-            filter(UserTable.deleted == 0):
-            user_accounts = row.all_accts
-            print row.name, row.default_acct, [c.name for c in user_accounts]
-
-
-def test5():
-    pass
-
-
 if __name__ == '__main__':
-
-    jobtable_model = JobTable()
-    usertable_model = UserTable()
-    accttable_model = AcctTable()
-    test4()
+    pass

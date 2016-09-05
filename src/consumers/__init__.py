@@ -5,7 +5,7 @@ import sqlalchemy as sa
 from sqlalchemy.orm import scoped_session, sessionmaker
 
 # from veredas_settings import *
-from models import Base, ChatMessage
+from src.consumers.models import Base, ChatMessage
 
 logger = logging.getLogger('filling_xdmod_database')
 
