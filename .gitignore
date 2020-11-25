@@ -19,7 +19,7 @@ lib64/
 parts/
 sdist/
 var/
-playground/
+playground
 *.egg-info/
 .installed.cfg
 *.egg
@@ -72,4 +72,4 @@ target/
 
 # exclude data from source control by default
 /data/
-
+/tests/

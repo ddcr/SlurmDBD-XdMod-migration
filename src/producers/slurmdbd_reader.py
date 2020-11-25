@@ -2,7 +2,7 @@
 # @Author: ddcr
 # @Date:   2016-08-30 20:06:12
 # @Last Modified by:   ddcr
-# @Last Modified time: 2016-09-04 19:16:39
+# @Last Modified time: 2016-09-09 22:54:05
 import logging
 import sqlalchemy as sa
 from sqlalchemy.engine.url import URL
@@ -60,7 +60,7 @@ class JobTable(Base):
     eligible = Column(Integer, nullable=False, server_default=text("'0'"))
     submit = Column(Integer, nullable=False, server_default=text("'0'"))
     start = Column(Integer, nullable=False, server_default=text("'0'"))
-    end = Column(Integer, nullable=False, server_default=text("'0'"))
+    end = Column(end, Integer, nullable=False, server_default=text("'0'"))
     suspended = Column(Integer, nullable=False, server_default=text("'0'"))
     timelimit = Column(Integer, nullable=False, server_default=text("'0'"))
     name = Column(String, nullable=False)

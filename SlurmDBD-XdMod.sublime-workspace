@@ -4,6 +4,110 @@
 		"selected_items":
 		[
 			[
+				"Di",
+				"DictWriter	class"
+			],
+			[
+				"local_clust",
+				"local_cluster_list"
+			],
+			[
+				"without_",
+				"without_steps"
+			],
+			[
+				"without",
+				"without_usage_truncation"
+			],
+			[
+				"print_",
+				"print_job_cond"
+			],
+			[
+				"acct_j",
+				"acct_job_cond_t"
+			],
+			[
+				"list_ite",
+				"list_iterator_destroy"
+			],
+			[
+				"num_",
+				"mysql_num_fields"
+			],
+			[
+				"top",
+				"top_srcdir"
+			],
+			[
+				"libslurmhelper_la",
+				"libslurmhelper_la_DEPENDENCIES"
+			],
+			[
+				"libslurm",
+				"libslurmhelper"
+			],
+			[
+				"LT",
+				"LTLIBRARIES"
+			],
+			[
+				"pkgli",
+				"pkglib_LTLIBRARIES"
+			],
+			[
+				"slurm_acc",
+				"slurm_acct_storage_init_ddcr"
+			],
+			[
+				"As",
+				"AssocTable	class"
+			],
+			[
+				"class",
+				"classPath"
+			],
+			[
+				"A",
+				"AssocTable	class"
+			],
+			[
+				"hybrid_",
+				"hybrid_property"
+			],
+			[
+				"datetime",
+				"datetime_key	statement"
+			],
+			[
+				"is",
+				"isclass	function"
+			],
+			[
+				"getmem",
+				"getmembers()	inspect"
+			],
+			[
+				"NotIm",
+				"NotImplementedError	class"
+			],
+			[
+				"jo",
+				"join()	os"
+			],
+			[
+				"sl",
+				"slurmdbd_manager	statement"
+			],
+			[
+				"Key",
+				"KeyboardInterrupt	class"
+			],
+			[
+				"pro",
+				"processor_count	statement"
+			],
+			[
 				"ca",
 				"cache_data	statement"
 			],
@@ -92,18 +196,10 @@
 	"buffers":
 	[
 		{
-			"file": "/home/ddcr/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+			"file": "/home/ddcr/TMP/slurm/src/plugins/accounting_storage/mysql/as_mysql_jobacct_process.c",
 			"settings":
 			{
-				"buffer_size": 265,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/parse_chat_file.py",
-			"settings":
-			{
-				"buffer_size": 2772,
+				"buffer_size": 43884,
 				"line_ending": "Unix"
 			}
 		}
@@ -115,10 +211,178 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 250.0,
-		"last_filter": "sublime",
+		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"ana",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"snippet: ma",
+				"Snippet: main()"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Packge",
+				"Package Control: Install Package"
+			],
+			[
+				"cONTROL ",
+				"Package Control: Install Package"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"Control",
+				"Package Control: Install Package"
+			],
+			[
+				"smart",
+				"smartifdef"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"note",
+				"Snippet: note"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"set syntax:  She",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"snippet: pr",
+				"Snippet: printf …"
+			],
+			[
+				"comme",
+				"Toggle Block Comment"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"/bin/",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"snippet: ifd",
+				"Snippet: ifndef (…)"
+			],
+			[
+				"et: p",
+				"Snippet: printf …"
+			],
+			[
+				"snipp",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Mak",
+				"Set Syntax: Makefile"
+			],
+			[
+				"aut",
+				"AutoDocstring: Current"
+			],
+			[
+				"lint",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"sni",
+				"Snippet: main()"
+			],
+			[
+				"Sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"git: push"
+			],
+			[
+				"commit",
+				"git: commit"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"gitg",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"auto",
+				"AutoDocstring: Current"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"gitte",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"Git",
+				"Git: Status"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"au",
+				"AutoDocstring: Current"
+			],
+			[
+				"iop",
+				"iOpener: Find File"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"header",
+				"FileHeader: Add Header"
+			],
 			[
 				"sublime",
 				"SublimeLinter: Clear Caches"
@@ -126,10 +390,6 @@
 			[
 				"subl",
 				"SublimeLinter: Toggle Linter"
-			],
-			[
-				"anaconda",
-				"Anaconda: Set Python interpreter"
 			],
 			[
 				"an",
@@ -140,20 +400,8 @@
 				"iOpener: Find File"
 			],
 			[
-				"bash",
-				"Set Syntax: Shell Script (Bash)"
-			],
-			[
 				"hea",
 				"FileHeader: Add Header"
-			],
-			[
-				"iop",
-				"iOpener: Find File"
-			],
-			[
-				"auto",
-				"AutoDocstring: Current"
 			],
 			[
 				"python",
@@ -166,10 +414,6 @@
 			[
 				"snippet: env",
 				"Snippet: #!/usr/bin/env"
-			],
-			[
-				"ana",
-				"Anaconda: Disable linting on this file"
 			],
 			[
 				"snippet: beg",
@@ -196,10 +440,6 @@
 				"FileHeader: Add Header"
 			],
 			[
-				"lint",
-				"SublimeLinter: Disable Linting"
-			],
-			[
 				"lin",
 				"SublimeLinter: Enable Linting"
 			],
@@ -220,16 +460,8 @@
 				"Package Control: Install Package"
 			],
 			[
-				"Package",
-				"Package Control: List Packages"
-			],
-			[
 				"fortr",
 				"Set Syntax: Fortran (Fixed Form)"
-			],
-			[
-				"git",
-				"Git: Status"
 			],
 			[
 				"contro",
@@ -238,10 +470,6 @@
 			[
 				"quic",
 				"git: quick commit"
-			],
-			[
-				"Git",
-				"git: commit"
 			],
 			[
 				"cite",
@@ -260,20 +488,12 @@
 				"SublimeBookmarks: Remove A Bookmark"
 			],
 			[
-				"sni",
-				"Snippet: Python generate_prime_numbers pattern"
-			],
-			[
 				"Snippet: tree",
 				"Snippet: Try/Except/Else"
 			],
 			[
 				"package",
 				"Package Control: List Packages"
-			],
-			[
-				"snipp",
-				"Snippet: decimalfield"
 			],
 			[
 				"bib",
@@ -298,10 +518,6 @@
 			[
 				"gitgutter",
 				"GitGutter: Compare Against Commit"
-			],
-			[
-				"Package Control",
-				"Package Control: List Packages"
 			],
 			[
 				"install",
@@ -334,10 +550,6 @@
 			[
 				"cit",
 				"Citer: Search"
-			],
-			[
-				"",
-				"Citer: Insert Title"
 			],
 			[
 				"latex",
@@ -410,13 +622,122 @@
 	},
 	"expanded_folders":
 	[
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src"
 	],
 	"file_history":
 	[
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/plugins/accounting_storage/mysql/mysql_jobacct_process.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/api/Makefile",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/options.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/Makefile",
+		"/home/ddcr/OPEN_XDMOD/bin/correct_log.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-BULL/src/slurmctld/job_mgr.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/test_memory_issues.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-BULL/src/common/xstring.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-BULL/src/common/proc_args.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-BULL/src/sbatch/opt.c",
+		"/home/ddcr/OPEN_XDMOD/share/classes/OpenXdmod/Shredder/Slurm.php",
+		"/home/ddcr/OPEN_XDMOD/share/classes/OpenXdmod/Shredder.php",
+		"/home/ddcr/OPEN_XDMOD/bin/xdmod-slurm-helper",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-BULL/src/sacct/options.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/sacct.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/teste_sacct.sh",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/plugins/accounting_storage/mysql/Makefile",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/config.h",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/ddcr_mapping_storage_ops.c",
+		"/home/ddcr/rpmbuild/BUILD/slurm/src/common/slurm_accounting_storage.c",
+		"/home/ddcr/.config/sublime-text-3/Packages/smartifdef/smartifdef.sublime-settings",
+		"/home/ddcr/TMP/slurm/src/plugins/accounting_storage/mysql/as_mysql_jobacct_process.c",
+		"/home/ddcr/OPEN_XDMOD/bin/xdmod-shredder",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/date_range.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/database/Makefile",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/Makefile",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/database/mysql_common.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/common/Makefile",
+		"/home/ddcr/rpmbuild/BUILD/slurm/src/database/mysql_common.c",
+		"/home/ddcr/.config/sublime-text-3/Packages/User/LiveStampsDefinitions.sublime-settings",
+		"/home/ddcr/.config/sublime-text-3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/home/ddcr/.config/sublime-text-3/Packages/User/LaTeXWordCount.sublime-settings",
+		"/home/ddcr/.config/sublime-text-3/Packages/User/Gist.sublime-settings",
+		"/home/ddcr/rpmbuild/BUILD/slurm/src/api/Makefile",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/api/Makefile.slurm",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/common/timers_n.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/common/Makefile.slurm",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/common/timers_n.h",
+		"/var/intel/impi/5.1.3.210/bin64/mpirun",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/common/new_timers.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/plugins/Makefile",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/plugins/accounting_storage/mysql/mysql_jobacct_process.h",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/xdmod-5.6.0/bin/xdmod-slurm-helper",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/common/parse_time.h",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/sacct",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/plugins/accounting_storage/mysql/make",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/plugins/accounting_storage/Makefile",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/plugins/accounting_storage/mysql/Makefile.slurm",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/src/database/Makefile.slurm",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/mysql_jobacct_process_ddcr.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/mysql_jobacct_process_ddcr.h",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/accounting_storage_mysql.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/check_syms.sh",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/etc/slurm/slurmdbd.conf",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/etc/slurm/slurm.conf",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/etc/slurm/slurm_co",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/mysql_jobacct_process.h",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/mysql_jobacct_process.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/print.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/process.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/slurm_accounting_storage.c",
+		"/home/ddcr/rpmbuild/BUILD_SCI/SLURM_AMBER14/pmemd_4096wat_oct/job.srm",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/test_time.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/playground/sacct_slurmv2.0.5/Makefile.slurm",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/sacct/myteste.h",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/sacct/myteste.c",
+		"/home/ddcr/.bash_profile",
+		"/home/ddcr/.profile",
+		"/home/ddcr/.bashrc",
+		"/home/ddcr/privatemodules/amber/14",
+		"/home/ddcr/rpmbuild/BUILD_SCI/SLURM_AMBER14/pure_QM_MD_GAMESS/Run.h2o.bp86_6-31g.srm",
+		"/home/ddcr/rpmbuild/BUILD_SCI/SLURM_AMBER14/pure_QM_MD_GAMESS/PARALELL_TEST/teste.srm",
+		"/home/ddcr/rpmbuild/BUILD_SCI/SLURM_AMBER14/pure_QM_MD_GAMESS/PARALELL_TEST/gms_job.tpl",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/producers/test/slurmdbd_reader_test.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/plugins/accounting_storage/mysql/as_mysql_jobacct_process.mod.c",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/plugins/accounting_storage/mysql/mysql_jobacct_process.mod.c",
+		"/home/ddcr/privatemodules/amber/14.0",
+		"/home/ddcr/TMP/slurm/src/sacct/test_time.c",
+		"/home/ddcr/TMP/slurm/src/plugins/accounting_storage/mysql/process_commits.sh",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/producers/slurmdbd_reader.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/consumers/__init__.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/tests/PDODBMultiIngestor.php",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/tests/test_ingestor",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/consumers/models.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/consumers/settings.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/consumers/mod_shredder_models.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/.env",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/docs/xdmod-slurm-helper.rst",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/docs/xdmod-slurm-helper.rst\n",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/producers/test/NEWS",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/producers/__init__.py",
 		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/SlurmDBD-XdMod.sublime-project",
+		"/home/ddcr/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/setup.py",
+		"/home/ddcr/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/tox.ini",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/setup.cfg",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/README.md",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/producers/settings.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/requirements.txt",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/__init__.py",
+		"/home/ddcr/.config/sublime-text-3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/home/ddcr/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/ddcr/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/producers/large_file_parser.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/visualization/visualize.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/migrate_slurm_database.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/consumers/__init__.old.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/read_slurm_database.py",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/slurm_jobacct_process.README",
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SLURM_MYSQL_WORKBENCH/mysql_jobacct_process.v2.0.5.c",
 		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/parse_chat_file.py",
+		"/home/ddcr/.slurm/db_settings.py",
 		"/home/ddcr/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
 		"/home/ddcr/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
 		"/SlurmDBD-XdMod.sublime-project",
@@ -431,122 +752,11 @@
 		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/as_mysql_job_complete.v15.c",
 		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/accounting_storage_mysql.v2.0.5.c",
 		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/jobacct_storage_p_job_complete.v2.0.5.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/jobacct_storage_p_job_start.v2.0.5.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/slurmctld/slurmctld.h",
-		"/home/ddcr/slurmctld.v2.0.5.h",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/plugins/accounting_storage/mysql/accounting_storage_mysql.c",
-		"/home/ddcr/jobacct_storage_p_job_complete.v2.0.5.c",
-		"/home/ddcr/jobacct_storage_p_job_start.v2.0.5.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/plugins/accounting_storage/mysql/mysql_jobacct_process.h",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/plugins/accounting_storage/mysql/jobacct_storage_p_job_complete.v15.c",
-		"/home/ddcr/jobacc_storage_p_job_start.v15.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/plugins/accounting_storage/mysql/accounting_storage_mysql.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/common/slurmdbd_defs.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/plugins/accounting_storage/mysql/as_mysql_job.c",
-		"/home/ddcr/Python-Tasks-Queues/BISPECTRUM_addon_stuff/PAIR_SNAP/compute_sna_atom.cpp",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/print_fields.v2.0.5-1.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/print_fields.v15-08-7-1.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/database/mysql_common.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/plugins/accounting_storage/mysql/as_mysql_jobacct_process.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/xdmod-5.6.0/db/schema/create_ddcr.sh",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/mysql_jobacct_process.v15.08.c",
-		"/home/ddcr/untitled.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/mysql_jobacct_process.v2.0.5.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/common/slurm_accounting_storage.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/sacct/options.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/xdmod-5.6.0/bin/xdmod-shredder",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/plugins/accounting_storage/mysql/mysql_jobacct_process.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/sacct/options.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-2.0.5-1.Bull.src/slurm-BULL/slurm/src/sacct/sacct.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/slurm-ohpc-15.08.7-5.1.src/slurm-slurm-15-08-7-1/src/sacct/sacct.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/xdmod-5.6.0/bin/xdmod-slurm-helper",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/print_jobid_slurm.2.0.5.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/tmp.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/print_jobid.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/print_jobid_2.0.5.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/print_reqmem.c",
-		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/xdmod-5.6.0/bin/xdmod-s",
-		"/data/PDF_new/Done/get_bibtex.py",
-		"/data/PDF_new/Done/my_cache.py",
-		"/home/ddcr/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
-		"/data/PDF_new/Done/indra/indra/literature/elsevier_client.py",
-		"/data/PDF_new/Done/python-scopus/pyscopus/pyscopus.py",
-		"/home/ddcr/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
-		"/home/ddcr/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
-		"/home/ddcr/Videos/ola.txt",
-		"/home/ddcr/Videos/184049-c-short-and-sweet-part-1.html",
-		"/home/ddcr/Videos/C++_videos_links.txt",
-		"/data/Documents/Artigos/tese.overleaf/main.tex",
-		"/data/Documents/Artigos/tese.overleaf/burocracia/letrinfo.tex",
-		"/data/Documents/Artigos/tese.overleaf/burocracia/carta_tese.tex",
-		"/data/Documents/Artigos/tese.overleaf/carta_tese.tex",
-		"/home/ddcr/LCC-CENAPAD/Cluster BULL-UFMG/fis763_users.rst",
-		"/home/ddcr/LCC-CENAPAD/Cluster BULL-UFMG/fis758_users.rst",
-		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono.tex",
-		"/data/Documents/Artigos/tese.overleaf/capitulo_nak.tex",
-		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono.bib",
-		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono_bibolamazi.bib",
-		"/home/ddcr/Downloads/PDF_new/MachineLearning_and_QuantumMechanics/rename.sh",
-		"/home/ddcr/Downloads/PDF_new/PhysRev_pdfs/rename.sh",
-		"/home/ddcr/Downloads/PDF_new/rename_pdf.py",
-		"/home/ddcr/Downloads/PDF_new/rename.sh",
-		"/home/ddcr/Downloads/PDF_new/OLA",
-		"/home/ddcr/Downloads/PDF_new/pdfMetadata/dados.txt",
-		"/home/ddcr/Downloads/PDF_new/pdfMetadata/dados.csv",
-		"/data/Documents/Artigos/tese.overleaf/teoria.tex",
-		"/data/Documents/Artigos/tese.overleaf/teoria_bibolamazi.bib",
-		"/data/Documents/Artigos/tese.overleaf/carbono.tex",
-		"/data/Documents/Artigos/tese.overleaf/intro.tex",
-		"/data/Documents/Artigos/tese.overleaf/tese-defs.sty",
-		"/data/Documents/Artigos/tese.overleaf/teoria_figs/fitness.py",
-		"/data/anaconda-recipes/monty/meta.yaml",
-		"/data/CODE_REVIEW/ga3.tidy.f",
-		"/home/ddcr/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-		"/data/CODE_REVIEW/farray.py",
-		"/data/Documents/Artigos/tese.overleaf/teoria_figs/CODE_REVIEW/ga3.tidy.f",
-		"/data/Documents/Artigos/tese.overleaf/teoria_figs/CODE_REVIEW/TIDY/ga3.tidy.f",
-		"/data/Documents/Artigos/tese.overleaf/teoria_figs/CODE_REVIEW/TIDY/ga3.f",
-		"/data/Documents/Artigos/tese.overleaf/teoria_figs/CODE_REVIEW/ga2.f",
-		"/data/Documents/Artigos/tese.overleaf/teoria_figs/CODE_REVIEW/MACO-Birmingham-GA/ATUAL/ga3.f",
-		"/data/Documents/Artigos/tese.overleaf/teoria_figs/ga3.f",
-		"/data/Documents/Artigos/tese.overleaf/teoria_figs/MACO-Birmingham-GA/pred.atual.f",
-		"/data/Documents/Artigos/tese.overleaf/teoria_figs/teste_sort.py",
-		"/data/Documents/Artigos/tese.overleaf/teste_sort.py",
-		"/data/Documents/Artigos/tese.overleaf/teste.f",
-		"/home/ddcr/.config/sublime-text-3/Packages/GitGutter/GitGutter.sublime-settings",
-		"/data/Documents/Artigos/tese.overleaf/conclusao.tex",
-		"/data/Documents/Artigos/tese.overleaf/capitulo_drug_release.tex",
-		"/data/Documents/Artigos/tese.overleaf/anexo3.tex",
-		"/data/Documents/Artigos/tese.overleaf/anexo1.tex",
-		"/home/ddcr/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
-		"/data/Documents/Artigos/tese.overleaf/snippet.py",
-		"/data/Documents/Artigos/tese.overleaf/capitulo_nak_bibolamazi.bib",
-		"/data/Documents/Artigos/tese.overleaf/capitulo_nak.bib",
-		"/data/Documents/Artigos/tese.overleaf/library.bib",
-		"/data/Documents/Artigos/tese.overleaf/anexo2.tex",
-		"/home/ddcr/.config/sublime-text-3/Packages/LaTeXTools/viewers/command_viewer.py",
-		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono_figs/infravermelho_b3lyp/stacked_spectra.py",
-		"/home/ddcr/.config/sublime-text-3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
-		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono_figs/infravermelho_b3lyp/extras/teste.py",
-		"/data/Documents/Artigos/tese.overleaf/README",
-		"/home/ddcr/.config/sublime-text-3/Packages/LaTeXTools/jumpToPDF.py",
-		"/data/ARTUR/TRABALHO_FILOSOFIA/Dualismo_Platonico.txt",
-		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono_figs/energies_comparison.py",
-		"/data/Documents/Artigos/tese.overleaf/abnitio_carbono_figs/energies_comparison.p",
-		"/home/ddcr/.config/sublime-text-3/Packages/LaTeXTools/viewPDF.py",
-		"/home/ddcr/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-		"/home/ddcr/.config/sublime-text-3/Packages/LaTeXTools/Default (Linux).sublime-keymap",
-		"/data/Documents/Artigos/tese-pre-banca/carbono.tex",
-		"/data/Documents/Artigos/carbon_proj/markevery_demo.py",
-		"/data/Documents/Artigos/carbon_proj/DOS_RSDFT_COMPARE.py",
-		"/data/Documents/Artigos/tese.overleaf/conclusao_bibolamazi.bib",
-		"/data/Documents/Artigos/tese.overleaf/conclusao.bib",
-		"/data/Documents/Artigos/tese.overleaf/intro.bib",
-		"/data/Documents/Artigos/tese.overleaf/intro_bibolamazi.bib"
+		"/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/jobacct_storage_p_job_start.v2.0.5.c"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -562,134 +772,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"from",
-			"select_job_res_t",
-			"slurmdb_send_accounting_update",
-			"mysql_next_result",
-			"password",
-			"username",
-			"<db",
-			"/usr/share/xdmod/",
-			"\\bstep\\b",
-			"CPU_TRES_REC_COUNT",
-			"PRINT_START",
-			"PRINT_ACCOUNT",
-			"PRINT_PARTITION",
-			"cluster_name",
-			"job->cluster",
-			"job_cluster",
-			"PRINT_JOBIDRAW",
-			"PRINT_JOBID",
-			"\\bid\\b",
-			"JOB_REQ_ID",
-			"curr_id",
-			"start",
-			"id_job",
-			"_cluster_get_jobs",
-			"setup_job_cluster",
+			"pkglib_LTLIBRARIES",
+			"good_nodes_from_inx",
+			"curr_cluster",
+			"setup_cluster_list_with_inx",
+			"curr_cluster",
+			",",
+			"^",
+			"_valid_job",
+			"starttime",
+			"reqmem",
+			"good_nodes_from_inx",
+			"print_job_cond",
+			"all:",
+			"CPPFLAGS",
+			"curr_state",
+			"JOB_RESIZING",
+			"job_table",
+			"DEF",
+			"mysql_jobacct_process_archive",
+			"_write_archive_file",
+			"JOB_REQ_RESVID",
 			"_state_time_string",
-			"setup_job_cluster_cond_limits",
-			"setup_job_cluster_cond_limis",
-			"setup_job_job_cond",
-			"\\\",",
-			"\\\"t1.",
-			"\\\"t1.(\\w+)\\\"",
-			"setup_job_cond_limits",
-			"p_get_jobs_cond",
+			"JOB_STATE",
+			"does not exist",
 			"cluster_list",
-			"setup_job_cond_limits",
-			"show_full",
-			"job_ended",
-			"REQ_SUSPENDED",
-			"REQ_NODE_INX",
-			"setup_job_cond_limits",
-			"extra",
-			"job_req_inx",
-			"mysql_jobacct_process_get_",
-			"PRINT_JOBID",
-			"in",
-			"_del_sql",
-			"buffer",
-			"thread",
-			"unicode_tex",
-			"bigfile",
-			"Despartamento",
-			"Departamento",
-			"except",
-			"ufmg",
-			"Saslow",
-			"/",
-			"fator",
-			"\\\\braket",
-			"a energia ciné",
-			"funçao de onda",
-			"eléc",
-			"eléctr",
-			"que são soluções",
-			"itemize",
-			"Lamarck",
-			"footnote",
-			"\\bGA\\b",
-			"\\bAG\\b",
-			"\\bGA\\b",
-			"\\\\begin{figure",
-			"seleção",
-			"\\\\begin{figure}",
-			"enr_bef",
-			"enr_min",
-			"comment",
-			"enr_min",
-			"nxt_clus",
-			"nxt_clus_aux",
-			"n_killnext",
-			"task1",
-			"n_kill2",
-			"n_aux_pred",
-			"enr_min",
-			"natoms",
-			"task1",
-			"enr_min",
-			"enr_1",
-			"1111",
-			"goto 1111",
-			"noff",
-			"energ_bet",
-			"enr_bef",
-			"sort_matr",
-			"energ_bet",
-			"enr_1",
-			"call predator",
-			"call gen",
-			"energ\\(",
-			"energ_bet",
-			"enr_1",
-			"task",
-			"enr_",
-			"PREDATOR",
-			"iclus",
-			"nbet_clust",
-			"Fluxograma que dEscreve",
-			"Fluxograma que dscreve",
-			"Fluxograma",
-			"Fluxograma que descreve",
-			"moléculas raramente",
-			"Caracterização dos clusters",
-			"\\\\cite",
-			"\\\\citeonline",
-			"\\(~\\\\cite",
-			"\\(~\\auto",
-			"(~\\auto",
-			"auto",
-			"subfigura",
-			"Silva",
-			"Parâmetros do",
-			"Parâmetros do poten",
-			"\\\\begin{figure}",
-			"author",
-			"autor",
-			"\\\\begin{figure}",
-			"\\begin\\{figure",
-			"forwa"
+			"associd",
+			"query",
+			"Shredfile",
+			"Shredding file",
+			"errorfile",
+			"dryRun",
+			"get_data",
+			"job_cond",
+			"get_data",
+			"truncation",
+			"debug4",
+			"row",
+			"last_id",
+			"exit",
+			"get_data",
+			"libdir",
+			"2016modified",
+			"global_defaults",
+			"LTLIBRARIES",
+			"libslurm.o",
+			"libdir",
+			"pkglibdir",
+			"sysconfdir",
+			"libLTLIBRARIES_INSTALL",
+			"VERSION_SCRIPT",
+			"lib_LT",
+			"pkglibdir",
+			"LTLIBRARIES",
+			"lib_LTLIBRARIES",
+			"libslurm.la",
+			"libslurm_o_LDADD",
+			"libslurmhelper_la_OBJECTS",
+			"force",
+			"libslurm.o",
+			"pkglib_LTLI",
+			"pkglib",
+			"pkglibLTLIBRARIES",
+			"PROGRAMS",
+			"noinst_PROGRAMS",
+			"noinst_",
+			"top_builddir",
+			"LIB_LDFLAGS",
+			"libslurm_la_DEPENDENCIES",
+			"libslurm_la_OBJECTS",
+			"common",
+			"convenience_libs",
+			"libslurm",
+			"pkgincludedir",
+			"pkgdatadir",
+			"pkglibdir",
+			"DEPENDENCIES",
+			"la_LDFLAGS",
+			"libspank_la_L",
+			"libspank_la_LIBADD",
+			"libspank_la_SOURCES",
+			"libspank_la_OBJECTS",
+			"libeio_la_LDFLAGS",
+			"libeio_la_SOURCES",
+			"la_LINK",
+			"la_SOURCES_DIST",
+			"libcommon_la_SOURCES",
+			"libnew",
+			"_HAVE_TIMERS_H",
+			"clean-noinstLT",
+			"clean-am:",
+			"PROGRAMS",
+			"libcommon.o",
+			"libcommon",
+			"timers",
+			"LIBS = ",
+			"LTLIBRARIES",
+			"all-am",
+			"libcommon_la_DEPENDENCIES",
+			"DIST_SOURCE",
+			"LDADD",
+			"END_TIMER2",
+			"pkglib_LTLIBRARIES",
+			"-rm",
+			"mostlyclean-libtool",
+			"mostlyclean-compile",
+			"mostlyclean-am",
+			"clean-pkglibLTLIBRARIES",
+			"clean-libtool",
+			"-rpath",
+			"accounting_storage_mysql.so",
+			"accounting_storage_mysql.",
+			"top_builddir = ",
+			"DEPENDENCIES",
+			"libslurm_mysql.la",
+			"\\.la",
+			"SO_LDFLAGS = ",
+			"top_srcdir = ",
+			"libdir = ",
+			"OBJECTS",
+			"LIBS = ",
+			"INCLUDES = ",
+			"CFLAGS",
+			"\\.libs",
+			"srcdir = ",
+			"DEFAULT_INCLUDES",
+			"top_builddir",
+			"LIBTOOLFLAGS",
+			"AM_LIBTOOLFLAGS"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -697,6 +907,47 @@
 		"regex": true,
 		"replace_history":
 		[
+			"',",
+			"'",
+			"is empty",
+			"	if(job_cond->resv_list && list_count(job_cond->resv_list)) {\n		set = 0;\n		xstrfmtcat(extra, \"job_cond->resv_list = [\");\n		itr = list_iterator_create(job_cond->resv_list);\n		while((object = list_next(itr))) {\n			if(set)\n				xstrcat(extra, \", \");\n			xstrfmtcat(extra, \"%s\", object);\n			set = 1;\n		}\n		list_iterator_destroy(itr);\n		xstrcat(extra, \"]\");\n		debug4(\"%s\", extra);\n	} else {\n		debug4(\"job_cond->resv_list does not exist\");\n	}\n",
+			"groupid_list",
+			"cluster",
+			"extra",
+			"slurm",
+			"libcommon",
+			"_HAVE_TIMERS_N_H",
+			"libnew",
+			"",
+			"\" \\",
+			"\"",
+			"",
+			" \\",
+			"\"",
+			"\" \\",
+			" \\",
+			"# \\1",
+			"^# \\1",
+			"",
+			",",
+			"export",
+			"_MYTESTE_H",
+			".",
+			"<--",
+			"-> t1.",
+			"->",
+			"t1.",
+			"->",
+			"",
+			"t1",
+			",",
+			"t2.c.",
+			"t1.c.",
+			"()",
+			".",
+			",",
+			"t1\\.",
+			"\\\"t1\\.c\\.",
 			"brigh99",
 			"ddcr",
 			"< ./db",
@@ -754,24 +1005,29 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/ddcr/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+					"file": "/home/ddcr/TMP/slurm/src/plugins/accounting_storage/mysql/as_mysql_jobacct_process.c",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 265,
+						"buffer_size": 43884,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								5326,
+								5326
 							]
 						],
 						"settings":
@@ -783,8 +1039,8 @@
 								{
 									"1":
 									[
-										263,
-										264
+										6381,
+										6382
 									]
 								},
 								"icon":
@@ -799,8 +1055,8 @@
 								{
 									"1":
 									[
-										0,
-										1
+										5310,
+										5311
 									]
 								},
 								"unmatched":
@@ -809,31 +1065,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -844,140 +1075,31 @@
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"c_time":
-							[
-								128,
-								3,
-								99,
-								100,
-								97,
-								116,
-								101,
-								116,
-								105,
-								109,
-								101,
-								10,
-								100,
-								97,
-								116,
-								101,
-								116,
-								105,
-								109,
-								101,
-								10,
-								113,
-								0,
-								67,
-								10,
-								7,
-								224,
-								8,
-								17,
-								16,
-								11,
-								16,
-								12,
-								139,
-								153,
-								113,
-								1,
-								133,
-								113,
-								2,
-								82,
-								113,
-								3,
-								46
-							],
-							"git_savvy.file_path": "/home/ddcr/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/parse_chat_file.py",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 2772,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								4
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -988,41 +1110,16 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
 							],
 							"c_time":
 							[
@@ -1053,14 +1150,14 @@
 								10,
 								7,
 								224,
-								8,
-								26,
-								20,
-								2,
-								45,
-								11,
-								48,
-								232,
+								9,
+								7,
+								18,
+								51,
+								25,
+								14,
+								42,
+								84,
 								113,
 								1,
 								133,
@@ -1071,11 +1168,13 @@
 								3,
 								46
 							],
-							"git_savvy.file_path": "/home/ddcr/LCC-CENAPAD/XDMOD_CENAPAD_WORK/CLEANING_SLURMDBD_VEREDAS/SlurmDBD-XdMod-migration/src/parse_chat_file.py",
-							"syntax": "Packages/MagicPython/grammars/MagicPython.tmLanguage"
+							"git_savvy.file_path": "/home/ddcr/TMP/slurm/src/plugins/accounting_storage/mysql/as_mysql_jobacct_process.c",
+							"git_savvy.repo_path": "/home/ddcr/TMP/slurm",
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3558.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1101,11 +1200,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.735363967651,
 			1.0
 		],
 		"rows":
@@ -1115,15 +1221,23 @@
 		]
 	},
 	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 124.0
+	},
 	"output.find_results":
 	{
 		"height": 584.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
 	},
 	"pinned_build_system": "",
 	"project": "SlurmDBD-XdMod.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1165,7 +1279,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 203.0,
+	"side_bar_width": 310.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

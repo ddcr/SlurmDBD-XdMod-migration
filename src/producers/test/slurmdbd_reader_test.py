@@ -2,7 +2,7 @@
 # @Author: ddcr
 # @Date:   2016-09-03 20:51:58
 # @Last Modified by:   ddcr
-# @Last Modified time: 2016-09-05 10:53:25
+# @Last Modified time: 2016-09-12 19:33:08
 import datetime
 import sqlalchemy as sa
 from src.producers.slurmdbd_reader import SlurmDBSession
@@ -70,6 +70,23 @@ def test6():
     """These query examples are for slurm-2.0.5.
     In version 2.1.16 (the last of the series 2.1.x) one more
     job field in the query was added: t1.timelimit
+
+    select <JOB_FIELDS> from job_table as t1
+    left join assoc_table as t2 on t1.associd=t2.id
+
+    (a) WITH usage_start; NO usage_end
+    where(t1.end >= USAGE_START || t1.end = 0)
+
+    (b) WITH usage_start; WITH usage_end
+    where((t1.eligible < USAGE_END &&
+          (t1.end >= USAGE_START || t1.end = 0)))
+
+    (c) NO usage_start; WITH usage_end
+    where((t1.eligible < USAGE_END))
+
+    && (t1.state='STATE_1' || t1.state='STATE_2' || ...)
+    && ((t1.cluster='veredas' || t2.cluster='veredas'))
+    order by order by t1.cluster, jobid, submit desc
     """
     from sqlalchemy.sql import select, text, desc
 
@@ -93,7 +110,7 @@ def test6():
         "FROM job_table AS t1 LEFT JOIN assoc_table AS t2 "
         "ON t1.associd = t2.id "
         "WHERE (t1.state = '3' || t1.state = '4' || "
-        "t1.state = '5' | t1.state = '6' | t1.state = '7') && "
+        "t1.state = '5' || t1.state = '6' || t1.state = '7') && "
         "((t1.cluster = 'veredas' || t2.cluster = 'veredas')) "
         "order by t1.cluster, jobid, submit desc")
 
@@ -120,9 +137,7 @@ def test6():
                (t1.c.state == '5') | (t1.c.state == '6') |
                (t1.c.state == '7')) &
               ((t1.c.cluster == 'veredas') | (t2.c.cluster == 'veredas'))).\
-        order_by(desc("t1.cluster, jobid, submit")).\
-        limit(1000)
-
+        order_by(desc("t1.jobid, t1.submit")).limit(10)
     print(q)
     print('-'*80)
 
@@ -131,6 +146,26 @@ def test6():
 
 
 def test7():
+    from sqlalchemy.sql import select, text, desc
+    from sqlalchemy.orm import aliased
+
+    t1 = aliased(JobTable, name='t1')
+    t2 = aliased(AssocTable, name='t2')
+
+    t = SlurmDBSession.query(t1.id, t1.jobid, t1.associd, t1.wckey,
+                             t1.wckeyid, t1.uid, t1.gid, t1.resvid,
+                             t1.partition, t1.blockid, t1.cluster,
+                             t1.account, t1.eligible, t1.submit, t1.start,
+                             t1.end, t1.suspended, t1.name, t1.track_steps,
+                             t1.state, t1.comp_code, t1.priority, t1.req_cpus,
+                             t1.alloc_cpus, t1.alloc_nodes, t1.nodelist,
+                             t1.node_inx, t1.kill_requid, t1.qos,
+                             t2.user, t2.cluster, t2.acct, t2.lft).\
+        outerjoin(AssocTable, t1.associd == AssocTable.id)
+    print('\n {}'.format(t))
+
+
+def test8():
     """These query tests refer to changes made in slurm-2.2.0.
     From this version on, we have one job database for each cluster:
     <cluster_name>_<table>, and so each job database is consulted
@@ -193,3 +228,53 @@ def test7():
         limit(1000)
 
     print(q)
+
+
+def test8():
+    """This call is for the latest git version of slurm
+
+    select <job_fields> from <cluster>_job_table as t1
+        left join <cluster>_assoc_table as t2
+            on t1.id_assoc=t2.id_assoc
+        left join <cluster>_resv_table as t3
+            on t1.id_resv=t3.id_resv &&
+    ((t1.time_start && (t3.time_start < t1.time_start &&
+                       (t3.time_end >= t1.time_start || t3.time_end = 0))) ||
+    ((t3.time_start < t1.time_submit &&
+     (t3.time_end >= t1.time_submit || t3.time_end = 0)) ||
+     (t3.time_start > t1.time_submit)))
+
+    (a) NO usage_start; NO usage_end
+        where(
+        (t1.state='STATE_1' || t1.state='STATE_2' || ...)
+        )
+
+    (b) WITH usage_start; NO usage_end
+        where(
+        (t1.state='STATE_1' &&
+            (t1.time_end && (t1.time_end >= USAGE_START))) ||
+        (t1.state='STATE_2' &&
+            (t1.time_end && (t1.time_end >= USAGE_START))) || ...
+        )
+
+    (c) WITH usage_start; WITH usage_end
+        where(
+        (t1.state='STATE_1' &&
+            (t1.time_end &&
+             (t1.time_end between USAGE_START and USAGE_END))) ||
+        (t1.state='STATE_2' &&
+            (t1.time_end &&
+             (t1.time_end between USAGE_START and USAGE_END))) || ...
+        )
+
+    (d) NO usage_start; WITH usage_end
+        where(
+        (t1.state='STATE_1' &&
+            (t1.time_end && (t1.time_end <= USAGE_END))) ||
+        (t1.state='STATE_2' &&
+            (t1.time_end && (t1.time_end <= USAGE_END))) || ...
+        )
+
+
+    group by id_job, time_submit desc
+    """
